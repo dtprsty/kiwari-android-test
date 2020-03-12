@@ -1,2 +1,1 @@
-# MVVM-sample
-# MVVM-sample
+# Simple Real time chat application
