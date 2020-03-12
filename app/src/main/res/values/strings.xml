@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat Toy</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email_not_exist">Email is not exist</string>
+    <string name="login_failed">Login Failed!</string>
+    <string name="message">Message</string>
+    <string name="text_placeholder">Lorem ipsum si dolor</string>
+    <string name="date_placeholder">Date</string>
+    <string name="username_placeholder">Username</string>
+</resources>

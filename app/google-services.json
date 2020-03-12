@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386370287361",
+    "firebase_url": "https://chattoy-39b79.firebaseio.com",
+    "project_id": "chattoy-39b79",
+    "storage_bucket": "chattoy-39b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386370287361:android:3149b6f399fbf449e64d00",
+        "android_client_info": {
+          "package_name": "id.dtprsty.chatttoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386370287361-612dres0oauaj7snuekmhrdn3ep326pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jtXhnLQOYxS5hyg1eprQePmuAEwrBV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386370287361-612dres0oauaj7snuekmhrdn3ep326pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
